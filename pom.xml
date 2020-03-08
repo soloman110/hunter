@@ -23,6 +23,6 @@
     </dependency>
   </dependencies>
   <modules>
-  	<module>gun-core</module>
+  	<module>hunter-core</module>
   </modules>
 </project>
